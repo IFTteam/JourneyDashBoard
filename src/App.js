@@ -19,7 +19,7 @@ class App extends Component {
               </Link>
             </li>
             <li className="nav-item">
-            <a href="http://localhost:3001" target="_blank">Create new journey</a>
+            <a href="http://localhost:3001/new/1" target="_blank">Create new journey</a>
             </li>
           </div>
         </nav>
